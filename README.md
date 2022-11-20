@@ -4,7 +4,6 @@
 👋 Hi! I'm **backend developer**  
 
 I'm always trying to write **clean** and **efficient** code.  
-  And I'm very interested in **web security**.
   
 💪 **Skills**
 
